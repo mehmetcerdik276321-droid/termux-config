@@ -1,1 +1,1 @@
-# -n-aat-deposu
+termux-config
